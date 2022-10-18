@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Trabalhar-com-JSON-Strings-Regex" />
+        <module name="Modelando-um-dominio" />
         <module name="Consumir-uma-API-de-filmes" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Consumir-uma-API-de-filmes" options="--add-modules java.net.http" />
-      <module name="Trabalhar-com-JSON-Strings-Regex" options="--add-modules java.net.http" />
+      <module name="Consumir-uma-API-de-filmes" options="" />
+      <module name="Modelando-um-dominio" options="--add-modules java.net.http" />
+      <module name="Trabalhar-com-JSON-Strings-Regex" options="" />
     </option>
   </component>
 </project>
