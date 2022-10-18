@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws IOException, InterruptedException  {
 
         //chave de acesso
         Key key = new Key();
@@ -28,10 +28,10 @@ public class Main {
         HttpResponse<String> response = client
                 .send(request, HttpResponse.BodyHandlers.ofString());
 
-        String json = response.body();
+        String responseJson = response.body();
 
         //exibindo resposta
-        System.out.println(json);
+        System.out.println(responseJson);
 
 
 
