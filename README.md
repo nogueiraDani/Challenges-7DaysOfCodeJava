@@ -5,3 +5,5 @@
 ---
 
 * [Dia 1/7 - Consumindo uma API de filmes](https://github.com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Consumir-uma-API-de-filmes)
+* [Dia 2/7 - Trabalhando com JSON, Strings e Regex](https://github.
+  com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Trabalhar-com-JSON-Strings-Regex)
