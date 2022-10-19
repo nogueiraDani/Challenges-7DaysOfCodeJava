@@ -12,11 +12,8 @@ public class Main {
         //chamar API
         String responseJson = new ImdbApiClient().getResponseJson();
 
-        //criando conversor
-        ImdbMovieJsonParser imdbMovieJsonParser = new ImdbMovieJsonParser(responseJson);
-
         //imdbMovieJsonParser JSON
-        String[] arrayString = imdbMovieJsonParser.extractingArrayJson();
+        String[] arrayString = new ImdbMovieJsonParser(responseJson).extractingArrayJson();
 
         //criando lista de filmes
         List<Movie> movies = new ArrayList<>();
