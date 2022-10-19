@@ -10,6 +10,7 @@
         <module name="Modelando-um-dominio" />
         <module name="Gerando-HTML" />
         <module name="Consumir-uma-API-de-filmes" />
+        <module name="Encapsulando-o-codigo" />
       </profile>
     </annotationProcessing>
   </component>
