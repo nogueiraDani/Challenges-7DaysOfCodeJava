@@ -8,3 +8,4 @@
 * [Dia 2/7 - Trabalhando com JSON, Strings e Regex](https://github.com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Trabalhar-com-JSON-Strings-Regex)
 * [Dia 3/7 - Modelando um dominio](https://github.com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Modelando-um-dominio)
 * [Dia 4/7 - Gerando o HTML](https://github.com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Gerando-HTML)
+* [Dia 5/7 - Encapsulando o código](https://github.com/nogueiraDani/Challenges-7DaysOfCodeJava/tree/main/Encapsulando-o-codigo)
