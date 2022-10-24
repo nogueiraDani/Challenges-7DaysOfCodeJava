@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Trabalhar-com-JSON-Strings-Regex" />
         <module name="Modelando-um-dominio" />
+        <module name="Criando-abstracoes" />
         <module name="Gerando-HTML" />
         <module name="Consumir-uma-API-de-filmes" />
         <module name="Encapsulando-o-codigo" />
@@ -17,6 +18,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Consumir-uma-API-de-filmes" options="" />
+      <module name="Criando-abstracoes" options="--add-modules java.net.http" />
       <module name="Modelando-um-dominio" options="" />
       <module name="Trabalhar-com-JSON-Strings-Regex" options="" />
     </option>

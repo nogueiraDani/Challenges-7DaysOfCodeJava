@@ -12,3 +12,9 @@
 
 /Encapsulando-o-codigo/src/main/java/br/com/challenge/dani/Key.java
 /Encapsulando-o-codigo/target/classes/br/com/challenge/dani/Key.class
+
+/Criando-abstracoes/src/main/java/br/com/challenge/dani/ImDB/KeyImDb.java
+/Criando-abstracoes/target/classes/br/com/challenge/dani/ImDB/KeyImDb.class
+
+/Criando-abstracoes/src/main/java/br/com/challenge/dani/Marvel/KeyMarvel.java
+/Criando-abstracoes/target/classes/br/com/challenge/dani/Marvel/KeyMArvel.class
